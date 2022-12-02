@@ -37,6 +37,8 @@
 
 ###
 
+[![wakatime](https://wakatime.com/badge/user/70c86c4e-a6e9-46fd-9d62-07f84503ebfd.svg)](https://wakatime.com/@70c86c4e-a6e9-46fd-9d62-07f84503ebfd)
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/cfigueiroa/cfigueiroa/output/snake.svg" alt="Snake animation" />
